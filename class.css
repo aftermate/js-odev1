@@ -1,0 +1,30 @@
+body {
+    background-color: darkgray
+}
+
+
+.p-class{
+    color: darkslategrey;
+    text-align: center;
+}
+
+.saat{
+    color:  whitesmoke;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Trebuchet MS';
+    text-align: center;
+}
+
+.h-class{
+    color: white;
+    font-weight: bold;
+    font-family: 'Trebuchet MS';
+    text-align: center;
+}
+.h2-class{
+    color: darkblue;
+    font-weight: bold;
+    font-family: 'Trebuchet MS';
+    text-align: center;
+}
